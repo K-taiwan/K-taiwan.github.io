@@ -134,13 +134,13 @@ li a:hover {
 }
 
 .aboutself {
-    background-image: url("/images/kenny.jpg") center;
+    background-image: url("/images/kenny.jpg") center no-repeat;
     background-size: cover;
     width: 320px;
     height: 320px;
 }
 .project11 {
-    background-image: url("/images/Arc1.png") center;
+    background-image: url("/images/Arc1.png") center no-repeat;
     background-size: cover;
     width: 320px;
     height: 320px;
