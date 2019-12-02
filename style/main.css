@@ -133,8 +133,14 @@ li a:hover {
     flex-wrap: wrap;
 }
 
+.aboutself {
+    background-image: url("/images/kenny.jpg") center;
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
 .project11 {
-    background-image: url("/images/Arc1.png");
+    background-image: url("/images/Arc1.png") center;
     background-size: cover;
     width: 320px;
     height: 320px;
