@@ -82,7 +82,9 @@ li a:hover {
 
 
 
-
+.jumbotron {
+    background-color: black!;
+}
 
 .container-one {
     display: flex;
