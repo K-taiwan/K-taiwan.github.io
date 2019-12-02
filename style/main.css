@@ -133,6 +133,13 @@ li a:hover {
     flex-wrap: wrap;
 }
 
+.project11 {
+    background-image: url("/images/Arc1.png");
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
 .col-md-7 {
     color: white;
 }
