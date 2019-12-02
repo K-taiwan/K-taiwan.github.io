@@ -143,6 +143,11 @@ li a:hover {
     width: 320px;
     height: 320px;
 }
+.project1 {
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
 
 .project22 {
     background-image: url("/images/Matching-game-1.png");
