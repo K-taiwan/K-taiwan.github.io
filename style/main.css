@@ -146,6 +146,21 @@ li a:hover {
     height: 320px;
 }
 
+.project22 {
+    background-image: url("/images/Matching-game-1.png");
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.project33 {
+    background-image: url("/images/Arc1.png");
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+
 .col-md-7 {
     color: white;
 }
