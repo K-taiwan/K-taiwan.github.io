@@ -134,7 +134,7 @@ li a:hover {
 .aboutself {
     background-image: url("/images/kenny.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: top;
     width: 320px;
     height: 320px;
 }
