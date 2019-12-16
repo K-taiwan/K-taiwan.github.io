@@ -17,5 +17,5 @@ Process approach was to have my current updated projects to set into the portofo
 
 Unsolved, currently I need to make heroku for the remainder of the portfolio's.
 
-Biggest challenge was the wireframe itself. How I wanted my portofio to look like. I will be changing the whole thing when I have more time to make it more professional and appealing.
+Biggest challenge was the wireframe itself. How I wanted my portfolio to look like. I will be changing the whole thing when I have more time to make it more professional and appealing.
 
