@@ -177,7 +177,7 @@
           
         <hr class="featurette-divider">
 
-        <div class="row featurette">
+        <!-- <div class="row featurette">
             <div class="col-md-7 order-md-2">
               
               <form
@@ -203,8 +203,23 @@
                 <button type="submit" class="sendContact">Send</button>
               </form>
             </div>
-        </div>
+        </div> -->
+
+      <div>
         
+        <form id="fs-frm" action="https://formspree.io/xdokzdrk"
+        method="POST">
+          <label for="fs-name">Your Name:</label>
+          <input id="fs-name" name="name" type="name" disabled="">
+          <label for="fs-email">Your Email:</label>
+          <input id="fs-email" name="email" type="email" disabled="">
+          <label for="fs-msg">Message:</label>
+          <textarea id="fs-msg" name="message" disabled=""></textarea>
+          <label><input type="checkbox" checked="" disabled=""> Get our newsletter!</label>
+          <input id="fs-submit" type="submit" disabled="">
+        </form>
+
+      </div>
     
     <!-- FOOTER -->
     <footer class="container">
