@@ -135,16 +135,16 @@ li a:hover {
     background-image: url("/images/kenny.jpg");
     background-size: cover;
     background-position: center;
-    width: 320px;
-    height: 320px;
+    max-width: 320px;
+    max-height: 320px;
 }
-.project11 {
+/* .project11 {
     background-image: url("/images/Arc1.png");
     background-size: cover;
     background-position: center;
-    width: 320px;
-    height: 320px;
-}
+    max-width: 320px;
+    max-height: 320px;
+} */
 .project1 {
     background-size: cover;
     max-width: 320px;
