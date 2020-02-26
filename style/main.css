@@ -134,7 +134,7 @@ li a:hover {
 .aboutself {
     background-image: url("/images/kenny.jpg");
     background-size: cover;
-    background-position: top;
+    background-position: center;
     width: 320px;
     height: 320px;
 }
@@ -172,6 +172,24 @@ li a:hover {
 
 .col-md-7 {
     color: white;
+}
+
+input[type=text] textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+
+}
+
+#test1 {
+    color: whitesmoke;
+}
+
+form {
+    display: inline !important;
 }
 
 .sendContact {
